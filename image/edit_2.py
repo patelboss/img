@@ -1,4 +1,4 @@
-# By @TroJanzHEX
+# By @Pankaj_Patidar_P
 from PIL import Image, ImageEnhance, ImageDraw
 import numpy as np
 import os

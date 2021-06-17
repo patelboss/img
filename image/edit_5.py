@@ -1,4 +1,4 @@
-# By @TroJanzHEX
+# By @Pankaj_Patidar_P
 import asyncio
 import shutil
 import os
