@@ -8,9 +8,9 @@
         "Telegram Bot",
         "TroJanzHEX"
     ],
-    "website": "https://TroJanzHEX.me",
-    "repository": "https://github.com/TroJanzHEX/Image-Editor",
-    "success_url": "https://telegram.dog/TroJanzHEX",
+    "website": "https://t.me/Pankaj_Patidar_P",
+    "repository": "https://github.com/patelboss/Image-Editor-by-Pankaj",
+    "success_url": "https://telegram.dog/Pankaj_Patidar_P",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
@@ -23,7 +23,7 @@
         "APP_ID": {
             "description": "Your APP ID from my.telegram.org",
             "value": ""
-        },
+        }, 
         "RemoveBG_API": {
             "description": "Get this api from https://www.remove.bg/b/background-removal-api",
             "value": "",
